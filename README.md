@@ -1,1 +1,1 @@
-# nosql-challenge
+My main code is located in NoSQL_analysis.ipynb and NoSQL_setup.ipynb, NoSQL_setup should be run first. Both files reference a json file located in Starter_Code folder and the Resources folder. The Starter_Code folder also contains given code and instructions for the assignment
